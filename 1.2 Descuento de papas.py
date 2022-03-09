@@ -1,5 +1,5 @@
 # VALOR A RECIBIR
-v_papasxkilos = int(input("Cuantos kilos de papa desea "))
+v_papasxkilos = float(input("Cuantos kilos de papa desea "))
 # VARIABLES DE CALCULO
     # VARIABLE PARA ALMACENAR EL VALOR DEL KILO
 v_vdpxk = 2500
