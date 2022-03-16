@@ -15,7 +15,7 @@ variable_10kilos = variable_valorporkilos  * 0.05
 variable_15kilos = variable_valorporkilos  * 0.07
 variable_20kilos = variable_valorporkilos  * 0.10
 #VARIABLE PARA RESTAR DESCUENTO
-    #variable_total5kilos = variable para restar el valor de descuento entre la variable "v_vdpxk2 y variable_5kilos" por 5 kilos y descuento de 3 %
+    #variable_total5kilos = variable para restar el valor de descuento entre la variable "variable_valorporkilos y variable_5kilos" por 5 kilos y descuento de 3 %
     #variable_total10kilos = variable para restar el valor de descuento entre la variable "variable_valorporkilos y variable_10kilos" por 10 kilos y descuento de 5 %
     #variable_total15kilos = variable para restar el valor de descuento entre la variable "variable_valorporkilos y variable_15kilos" por 15 kilos y descuento de 7 %
     #variable_total20kilos = variable para restar el valor de descuento entre la variable "variable_valorporkilos y variable_20kilos" por 20 kilos y descuento de 10 %
