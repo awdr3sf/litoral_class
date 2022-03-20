@@ -1,4 +1,3 @@
-n = 1
-while n<=2000000000000000000000000000:
-    print("El valor de n es ",n)
-    n=n+1
+nota = (int(input("Tu nota")))
+while nota<=5:
+    print("Tu nota es : ",nota)
